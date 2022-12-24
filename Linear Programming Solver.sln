@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Linear Programming Solver", "Linear Programming Solver\Linear Programming Solver.pyproj", "{7D9FB357-DCB2-4BD1-9C5F-B890D1CB14C9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7D9FB357-DCB2-4BD1-9C5F-B890D1CB14C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D9FB357-DCB2-4BD1-9C5F-B890D1CB14C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DC3B7DFC-874E-4476-BBD6-57C095F4F425}
+	EndGlobalSection
+EndGlobal
